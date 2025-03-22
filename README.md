@@ -3,14 +3,12 @@
 My name is Leonardo from Argentina 🇦🇷. 
 I am a full-stack software developer currently working at [phelas](https://phelas.com/) in Munich, Germany 🇩🇪.
 
-##  Some of my Skills 🥷
+##  My Stack:🥷
 
-* Python Developer, with a focus on Data Science applications.
-* Mastery of Dash and Plotly (python libraries) for the creation of full-stack dashboards.
-* Linear Optimization.
-* Servers administration.
-* Linux
-* Product Development
+* Frontend (React, Typescript, Vite)
+* Backend (Python, FastAPI, Dash)
+* DevOps (Github Actions, Docker, Traefik, ZFS, Linux)
+* Cloud (Hetzner, Digital Ocean) 
 
 ## How to reach me? ✉️
 Drop me a message on [my LinkedIn](https://www.linkedin.com/in/leonardo-ferigutti-859913122/)
