@@ -3,7 +3,7 @@
 My name is Leonardo from Argentina 🇦🇷. 
 I am a full-stack software developer currently working at [phelas](https://phelas.com/) in Munich, Germany 🇩🇪.
 
-##  My Stack:🥷
+##  My Stack 🥷
 
 * Frontend (React, Typescript, Vite)
 * Backend (Python, FastAPI, Dash)
