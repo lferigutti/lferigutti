@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Leonardo from Argentina 🇦🇷. 
-I am a full-stack software developer currently working at [phelas](https://phelas.com/) in Munich, Germany 🇩🇪. I love building digital products that user loves to use and solve realworld probelms.
+I am a full-stack software developer currently working at [phelas](https://phelas.com/) in Munich, Germany 🇩🇪. I love building digital products that users love to use and solve realworld probelms.
 
 ##  My Stack 🥷
 
