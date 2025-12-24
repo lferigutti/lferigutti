@@ -5,26 +5,11 @@ I am a full-stack software developer currently working at [phelas](https://phela
 
 ##  My Stack 🥷
 
-* Frontend (React, Typescript, Vite)
+* Frontend (React, NextJS, Typescript, Vite)
 * Backend (Python, FastAPI, Dash)
 * DevOps (Github Actions, Docker, Traefik, ZFS, Linux)
-* Cloud (Hetzner, Digital Ocean) 
+* Cloud (Hetzner, Digital Ocean, Vercel) 
 
 ## How to reach me? ✉️
-Drop me a message on [my LinkedIn](https://www.linkedin.com/in/leonardo-ferigutti-859913122/)
+Drop me a message on [my LinkedIn](https://www.linkedin.com/in/leonardo-ferigutti-859913122/) or visit my [Website](https://ferigutti.com).
 
-
-<!--
-**lferigutti/lferigutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
