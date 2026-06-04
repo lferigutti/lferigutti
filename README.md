@@ -1,15 +1,13 @@
-## Hi there 👋
+## Hi there
 
-My name is Leonardo from Argentina 🇦🇷. 
-I am a full-stack software developer currently working at [phelas](https://phelas.com/) in Munich, Germany 🇩🇪. I love building digital products that users love to use and solve realworld probelms.
+My name is Leonardo. 
+I am a full-stack engineer currently working at [Entrix](https://entrixenergy.com/). I have 4+ year of experience building software for the energy sector, focusing on energy storage optimization.
 
-##  My Stack 🥷
+##  My Stack
 
-* Frontend (React, NextJS, Typescript, Vite)
-* Backend (Python, FastAPI, Dash)
-* DevOps (Github Actions, Docker, Traefik, ZFS, Linux)
-* Cloud (Hetzner, Digital Ocean, Vercel)
+* Frontend (React, NextJS, Typescript)
+* Backend (Python, FastAPI)
+* Cloud (AWS, Hetzner, Vercel)
 
-## How to reach me? ✉️
+## How to reach me?
 Drop me a message on [my LinkedIn](https://www.linkedin.com/in/leonardo-ferigutti-859913122/) or visit my [Website](https://ferigutti.com).
-
